@@ -1,0 +1,52 @@
+.navbar{
+    margin-left:10px; 
+}
+.form-group{
+    left:200px;
+}
+.has-search .form-control {
+    margin-top:10px;
+    margin-left:400px;
+    padding-left: 3.375rem;
+    background-color:#BAB6B2; 
+    color: black;
+}
+.fa-search{
+    margin-top:10px;
+    margin-left:400px;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: black;
+}
+.user-icons{
+    position:absolute;
+    margin-left:1200px;
+    padding-left:20px; 
+}
+.col-sm-3{
+    padding-left:40px; 
+}
+.carousel-inner{
+    padding-top: 20px;
+    height: 500px;
+    max-height: 500px;
+
+}
+.carousel-item{
+    margin-bottom:40px; 
+}
+.caro {
+    margin-right:30px;
+}
+
+.slick{
+    background-color:blueviolet; 
+}

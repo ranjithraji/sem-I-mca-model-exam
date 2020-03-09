@@ -1,0 +1,558 @@
+.header{
+    position: absolute;
+    width: 100%;
+    height: 77px;
+    left: 0px;
+    top: 0px;
+    
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #FCFCFC;
+}
+.meatapp{
+    position: absolute;
+    width: 323px;
+    height: 60px;
+    left: 72px;
+    top: 8px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.searchcon{
+    position: absolute;
+    width: 450px;
+    height: 44px;
+    left: 646px;
+    top: 8px;
+    padding: 10px 0px 0px 5px;
+    margin-top: 8px;
+    background: #F1F1F1;
+}
+.searchsubmit{
+    width: 20.51px;
+    height: 19.3px;
+    background: #F1F1F1;
+    border: 1px solid  #F1F1F1;
+    box-sizing: border-box;
+    
+}
+.searchbox{
+    margin-left:30px;
+    width: 311.69px;
+    height: 26px;
+    font-family: Lato;
+    font-style: normal;
+    background-color: #F1F1F1;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    border: 1px solid #F1F1F1;
+}
+.offerimage{
+width: 20px;
+height: 20px;
+background: #FCFCFC;
+border: 1px solid #FCFCFC;
+box-sizing: border-box;
+}
+.offer{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    right: 320px;
+    background: #FCFCFC;
+    border: 1px solid #FCFCFC;
+}
+.newspan{
+    font-size: 10px;
+    color: red;
+    position: relative;
+    top: -11px;
+    left: -6px;
+}
+.signin{
+    width: 100px;
+    height: 41px;
+    position: absolute;
+    top: 20px;
+    right: 210px;
+    background: #FCFCFC;
+    border: 1px solid #FCFCFC;
+}
+.signinimage{
+    width: 20px; 
+    height: 20px;
+}
+.help{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    right: 120px;
+    background: #FCFCFC;
+    border: 1px solid #FCFCFC;
+}
+.cart{
+    width: 90px;
+    height: 41px;
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    background: #FCFCFC;
+    border: 1px solid #FCFCFC;
+}
+.cardimage{
+    width: 70px;
+    height: 30px;
+}
+.fimage{
+    margin-top: 80px;
+    margin-left: 85px;
+    width:300px;
+    height: 300px;
+}
+.con100{
+    position: relative;
+    top: 85px;
+}
+.lettercon100{
+    text-align: center;
+    margin-top: 20px;
+}
+.masshr{
+    width: 100%;
+    height: 2px;
+    margin:30px 0px 30px 0px;
+    background-color: #7e7d7d;
+    box-shadow:10px 5px 10px 1px rgb(168, 150, 150);
+}
+.garnddiv100{
+    width: 80%;
+    height: auto;
+    margin: 30px 0px 0px 50px;
+}
+.dspan10{
+    color: darkgrey;
+}
+.image10000{
+    height: 300px;
+}
+.row10000{
+    margin-top: 30px;
+}
+.our007{
+    text-align: center;
+}
+.bttbut100000{
+    margin-top:30px;
+    padding-top: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: #61605f;
+    color:black;
+    text-align: center;
+}
+.footer1000{
+    background-color: #26253f;
+    color:#d3d0d0;
+    padding-bottom: 20px;
+}
+.rbut1000{
+    background-color: #FF3E6C;
+    color: white;
+    width: 100%;
+    border-radius: 30px;
+    margin: 30px 0px 50px 0px;
+}
+body{
+    background: white;
+}
+.offer1{
+    background: white;
+}
+.offer-heading{
+    padding-left:100px; 
+}
+.offer-container{
+    padding: 10px;
+}
+.offer-layout{
+    background-color: white;
+}
+.offer-row{
+    margin-top:20px; 
+    padding: 10px;
+    background-color:#005062;
+    color:white;
+}
+.offer-log{
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+.offer-btn {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.btnOffer{
+    border:none;
+    padding: 10px;
+    width:100%;
+    font-size: 20px;
+}
+.btn1,
+.btn1:hover{
+    background: #ec6f5b;
+}
+.btn2,
+.btn2:hover {
+    background: blueviolet;
+}
+.btn3,
+.btn3:hover {
+    background: brown;
+}
+.mdOffer{
+    margin: 2px;
+    padding: 20px;
+}
+.dot {
+    height: 5px;
+    width: 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .gbut1002{
+      width: 65px;
+      height: 40px;
+  }
+  .btn1212{
+      width: 120px;
+      height: 40px;
+      border: 1px black;
+      background-color: #EC6F5B;
+      display: none;
+  }
+  .new1000{
+      color: red;
+  }
+  .order120120{
+      font-size: 10px;
+  }
+  .img2{
+  width: 20px;
+  height: 20px;
+  }
+  .new1000{
+    font-size: 10px;
+    position: relative;
+    top: -50px;
+    left: 25px;
+  }
+  .card{
+    margin-top:30px;
+    margin-left:0px;
+    margin-bottom: 30px;
+    border: none;
+}
+.offer12345{
+    display: none;
+}
+.empty120{
+    width: 100%;
+    height: 78px;
+}
+
+.thumbil-1{
+    display: inline-block;
+    margin-left:50px;
+    width: 400px;
+    height:400px;
+}
+.thumbil-flag{
+    display: inline-block;
+    margin-left:145px;
+    width: 150px;
+    height:150px;
+}
+.product-container{
+        background: #171a29;
+        padding: 30px;
+        color:white;
+}
+.product-indicator,
+.product-place,
+.product-details{
+        margin-left:80px;
+        margin-top: 20px;
+}
+.table{
+    text-align: center;
+    color:white;
+    border: none;
+}
+.flag{
+    border: 1px solid white;
+    width:450px;
+    padding: 30px;
+}
+.card-top1{
+    display: inline;
+    position: absolute;
+    margin-left:-15px;
+    margin-top:-20px;
+}
+.thumbil4{
+     background:#171a29;
+     border:none;
+    display: inline-block;
+    margin-left:0px;
+    margin-right: 0px;
+    text-align: left;
+    width: 80px;
+    height:50px;
+}
+body {
+    background:white;
+}
+.offer-heading {
+    padding-left: 100px;
+}
+
+.offer-container {
+    padding: 10px;
+}
+
+.offer-layout {
+    background-color: white;
+}
+
+.offer-row {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #005062;
+    color: white;
+}
+
+.offer-log {
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+
+.offer-btn {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.btnOffer {
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.btn1,
+.btn1:hover {
+    background: #ec6f5b;
+}
+
+.btn2,
+.btn2:hover {
+    background: blueviolet;
+}
+
+.btn3,
+.btn3:hover {
+    background: brown;
+}
+
+.mdOffer {
+    margin: 2px;
+    padding: 20px;
+}
+.bri123{
+    background-color: darkgray;
+    width: 100%;
+    height: 70px;
+    padding: 20px 0px 0px 10px;
+}
+.kfc12345{
+    display: none;
+}
+.pizza12345{
+    display: none;
+}
+/*bag*/
+.bag-logo{
+    margin-left:41px; 
+}
+.bag-nav{
+    width:100%; 
+    height:80px; 
+    box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bag-title{
+    font-size:15px;
+    font-weight:500;
+    color:dimgray;
+}
+.bag-title-con{
+    margin-top:-40px; 
+    margin-left:38%;
+    width:500px; 
+}
+.bag-title-side-con{
+    margin-top:-40px; 
+    margin-left:87%; 
+}
+.bag-title-side{
+    font-size:15px;
+    margin-top:3%; 
+    font-weight:500;
+    color:dimgray;
+}
+.bag-offer-box{
+    margin-right:10%;
+    border-left:solid 1px #63c786; 
+    width:100%;
+    border-radius:3px; 
+    padding:1%;  
+    border:solid 1px gainsboro;
+}
+.bag-offer-title{
+    font-size:15px;
+    margin:1%; 
+    font-weight:500;
+    color:#63c786;
+}
+.bag-offer-li {
+    font-size:13px;
+    margin:1%; 
+    font-weight:400;
+    color:grey;
+    line-height:25px;  
+}
+.bag-del-box{
+    margin-right:10%;
+    border-left:solid 1px #63c786; 
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding:1%;  
+    border:solid 1px gainsboro;
+    
+}
+.bag-del{
+    display: initial;
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:25px;
+}
+.bag-item{
+    font-size:15px;
+    font-weight:700;
+    color:black;
+    line-height:25px; 
+}
+.bag-item-total{
+    display: initial;
+    font-size:15px;
+    float:right;
+    font-weight:700;
+    color:black;
+    line-height:25px; 
+}
+.bag-item-box{
+    margin-right:10%;
+    margin-left:0px; 
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding-bottom:1%;  
+    border:solid 1px gainsboro;
+}
+.bag-item-img{
+    height:90%; 
+    margin-left:-15px; 
+}
+.bag-item-col{
+    margin-left:0px; 
+    width:100%;
+    height: auto;
+}
+.bag-item-can{
+     font-size:13px;
+     font-weight:400;
+     color:black;
+     line-height:15px; 
+}
+.bag-item-btn{
+    color: gray;
+    border:0px;
+    font-size:15px; 
+    font-weight:700;   
+    background-color:white;
+}
+.bag-table{
+    margin-top:35px;
+    font-weight: 500;
+    color: black;
+}
+.bag-add-wish{
+    margin-right:10%;
+    margin-left:0px; 
+    margin-top: 20px;
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding:3%;  
+    border:solid 1px gainsboro;
+}
+.bag-add-con{
+     font-size:15px;
+     font-weight:700;
+     color:black;
+     line-height:15px;
+}
+.bag-left-con{
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:30px;
+}
+.bag-left-con1{
+    font-size:13px;
+    margin:1%; 
+    font-weight:200;
+    color:black;
+    line-height:30px;
+}
+.bag-left-con2{
+    font-size:13px;
+    font-weight:200;
+    color:black;
+    text-align:right; 
+    line-height:25px;
+}
+.bag-left-botm{
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:30px;
+}
